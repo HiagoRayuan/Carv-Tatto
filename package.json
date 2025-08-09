@@ -1,0 +1,24 @@
+{
+  "name": "carv-tatto",
+  "version": "1.0.0",
+  "description": "--------------------------------------------------------------------------------------------------\r O foco deste projeto é criar um site focado em mostrar os trabalhos feitos pelo tatuador (cliente), para os usuários do site, e também possibilitar que os mesmos consigam fazer agendamentos de sessões para tatuagens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiagoRayuan/Carv-Tatto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/HiagoRayuan/Carv-Tatto/issues"
+  },
+  "homepage": "https://github.com/HiagoRayuan/Carv-Tatto#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
